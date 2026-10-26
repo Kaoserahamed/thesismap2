@@ -1,0 +1,5 @@
+build/
+saves/
+.vs/
+.idea/
+*.log
